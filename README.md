@@ -1,5 +1,7 @@
 # Taking-Off-The-Training-Wheels
 
+The objective of this project is to use class objects and enums. This will require you to implement a class, Bicycle, in addition to its private and public member functions, which will be specified in a further section of this document.
+
 You are given **Bicycle.hpp**. You must create and successfully write **Bicycle.cpp**.
 
 ## Implementation
